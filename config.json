@@ -1,4 +1,7 @@
 {
+  "proPrice": "$4.99",
+  "developerEmail": "ashwwinyadav2408@gmail.com",
+  "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/FocusFlow-extension/refs/heads/main/licenses.json",
   "enableAds": true,
   "enableProUpgrade": true,
   "ad": {
