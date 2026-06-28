@@ -15,7 +15,7 @@
     {
       "name": "EchoClip",
       "description": "Your ultimate clipboard manager.",
-      "icon": "raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/icon.png",
+      "icon": "https://raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/icon.png",
       "urls": {
         "chrome": "https://chrome.google.com/webstore/detail/echoclip/YOUR_CHROME_ID",
         "firefox": "https://addons.mozilla.org/en-US/firefox/addon/echoclip/",
