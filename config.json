@@ -1,0 +1,26 @@
+{
+  "enableAds": true,
+  "enableProUpgrade": true,
+  "ad": {
+    "title": "NordVPN Summer Sale",
+    "text": "Get 68% off + 3 months free. Stay secure online.",
+    "url": "https://nordvpn.com/special"
+  },
+  "shareLinks": {
+    "chrome": "https://chrome.google.com/webstore/detail/focusflow/YOUR_CHROME_ID",
+    "firefox": "https://addons.mozilla.org/en-US/firefox/addon/focusflow/",
+    "edge": "https://microsoftedge.microsoft.com/addons/detail/focusflow/YOUR_EDGE_ID"
+  },
+  "developerApps": [
+    {
+      "name": "EchoClip",
+      "description": "Your ultimate clipboard manager.",
+      "icon": "raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/icon.png",
+      "urls": {
+        "chrome": "https://chrome.google.com/webstore/detail/echoclip/YOUR_CHROME_ID",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/echoclip/",
+        "edge": "https://microsoftedge.microsoft.com/addons/detail/echoclip/YOUR_EDGE_ID"
+      }
+    }
+  ]
+}
